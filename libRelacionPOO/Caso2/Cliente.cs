@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace libRelacionPOO.Caso1
 {
-    public class DatosContacto
+    public class Cliente
     {
-        public List<Pedido> Pedido { get; set; }
+        public List<Pedido> Pedidos { get; set; }
 
     }
 }

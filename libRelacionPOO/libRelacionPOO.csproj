@@ -47,7 +47,7 @@
     <Compile Include="Caso1\Cliente.cs" />
     <Compile Include="Caso1\Usuario.cs" />
     <Compile Include="Caso2\Cliente.cs" />
-    <Compile Include="Caso2\Producto.cs" />
+    <Compile Include="Caso2\Pedido.cs" />
     <Compile Include="Caso3\Alumno.cs" />
     <Compile Include="Caso3\Docente.cs" />
     <Compile Include="Caso3\Tripulacion.cs" />

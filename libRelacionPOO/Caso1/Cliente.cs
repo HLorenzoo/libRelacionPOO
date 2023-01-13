@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace libRelacionPOO.Caso1
 {
-    public class DatosContacto
+    public class Cliente
     {
         public string Nombre { get; set; }
         public string Apellido { get; set; }
-        public Empleado Usuario { get; set; }
+        public Usuario Usuario { get; set; }
     }
 }

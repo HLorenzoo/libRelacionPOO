@@ -8,7 +8,7 @@ namespace libRelacionPOO.Caso1
 {
     public class Pedido
     {
-        public DatosContacto Cliente { get; set; }
+        public Cliente Cliente { get; set; }
 
 
     }
